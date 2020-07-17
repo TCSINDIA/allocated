@@ -1,0 +1,8 @@
+What is Version Control System?
+Version Control System (VCS) is a software that helps software developers to work together and maintain a complete history of their work.
+
+Following are the goals of a Version Control System.
+
+Allow developers to work simultaneously.
+Do not overwrite each other’s changes.
+Maintain history of every version of everything.
